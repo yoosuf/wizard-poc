@@ -1,5 +1,5 @@
 {
-  "name": "@codeium/vue-wizard",
+  "name": "@yoosuf/vue-wizard",
   "version": "1.0.0",
   "private": false,
   "type": "module",
@@ -43,14 +43,14 @@
     "form",
     "multi-step"
   ],
-  "author": "Codeium",
+  "author": "yoosuf",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/codeium/vue-wizard"
+    "url": "https://github.com/yoosuf/vue-wizard"
   },
   "bugs": {
-    "url": "https://github.com/codeium/vue-wizard/issues"
+    "url": "https://github.com/yoosuf/vue-wizard/issues"
   },
-  "homepage": "https://github.com/codeium/vue-wizard#readme"
+  "homepage": "https://github.com/yoosuf/vue-wizard#readme"
 }

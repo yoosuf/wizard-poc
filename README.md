@@ -14,7 +14,7 @@ A highly customizable and reusable wizard/stepper component for Vue 3 applicatio
 ## Installation
 
 ```bash
-npm install @codeium/vue-wizard
+npm install @yoosuf/vue-wizard
 ```
 
 ## Basic Usage
@@ -38,7 +38,7 @@ npm install @codeium/vue-wizard
 </template>
 
 <script setup lang="ts">
-import { Wizard, WizardStep } from '@codeium/vue-wizard';
+import { Wizard, WizardStep } from '@yoosuf/vue-wizard';
 </script>
 ```
 
@@ -125,7 +125,7 @@ import { Wizard, WizardStep } from '@codeium/vue-wizard';
 
 <script setup lang="ts">
 import { ref } from 'vue';
-import { Wizard, WizardStep } from '@codeium/vue-wizard';
+import { Wizard, WizardStep } from '@yoosuf/vue-wizard';
 import * as yup from 'yup';
 
 const personalInfoSchema = yup.object({
